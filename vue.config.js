@@ -7,9 +7,9 @@ module.exports = {
   },
   configureWebpack: {
     output: {
-      library: 'single-spa-vue-app',
+      library: 'single-spa-vue',
       libraryTarget: 'umd',
-      filename: 'single-spa-vue-app.js',
+      filename: 'single-spa-vue.js',
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [

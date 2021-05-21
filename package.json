@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-vue",
+  "name": "single-spa-vue-new",
   "version": "0.1.9",
   "description": "Vue application with two example pages for be included in a single-spa application as registered app.",
   "main": "dist/single-spa-vue.umd.js",
@@ -17,7 +17,7 @@
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-plugin-import": "2.20.0",
     "eslint-plugin-vue": "5.0.0",
-    "node-sass": "4.13.1",
+    "node-sass": "4.14.1",
     "sass-loader": "8.0.2",
     "vue-cli-plugin-single-spa": "1.1.0",
     "vue-template-compiler": "2.6.11",
